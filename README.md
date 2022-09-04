@@ -1,6 +1,6 @@
 # jogo_da_velha
 
-**Prática de diversos conceitos em Java com a criação de um jogo da velha**
+**Prática de conceito de matrizes em Java com a criação de um jogo da velha**
 
 Level: Easy
 
